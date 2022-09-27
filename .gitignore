@@ -1,0 +1,8 @@
+# Arquivo dotenv
+.env
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints
+
+# Ambiente virtual
+venv/
